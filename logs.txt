@@ -1,0 +1,8 @@
+[2026-02-07 10:37:20] Normal user activity started
+[2026-02-07 10:37:20] Risk level calculated: LOW
+[2026-02-07 10:37:20] Response executed for risk level: LOW
+[2026-02-07 10:37:24] Graph displayed
+[2026-02-07 10:37:29] Ransomware simulation started
+[2026-02-07 10:37:29] Risk level calculated: HIGH
+[2026-02-07 10:37:29] Response executed for risk level: HIGH
+[2026-02-07 10:37:32] Graph displayed
